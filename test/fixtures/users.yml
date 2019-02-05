@@ -1,0 +1,21 @@
+smokey_steve:
+  id: 1
+  name: Smokey
+  email: first_user@test.com
+  password_digest: <%= User.digest('password') %>
+  smoking_status: current  
+
+smart_kyle_the_prude_:
+  id: 2
+  name: Kyle
+  email: second_user@test.com
+  password_digest: <%= User.digest('password') %>
+  smoking_status: never  
+
+johnny_jock_the_has_been:
+  id: 2
+  name: John
+  email: third_user@test.com
+  password_digest: <%= User.digest('password') %>
+  smoking_status: former  
+

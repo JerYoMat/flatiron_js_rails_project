@@ -1,0 +1,18 @@
+health_warning_1:
+  id: 1
+  name: Gnarly Foot
+  image_link: app/assets/images/gnarly_foot.png
+  user: :smokey_steve
+  country: :country_1
+
+health_warning_2:
+  name: Gross Mouth
+  image_link: app/assets/images/gross_mouth.png
+  user: :smart_kyle_the_prude
+  country: :country_1
+
+health_warning_3:
+  name: Nasty Tongue
+  image_link: app/assets/images/nasty_tongue.png
+  user: :johnny_jock_the_has_been
+  country: :country_1
